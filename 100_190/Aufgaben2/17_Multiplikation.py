@@ -9,3 +9,15 @@
 
     1000 * 8420 und 8420 * 1000 ist nur eine Kombination.
 """
+zahl = 8420000
+anzahl = 0
+
+for divisor in range(1, 10000):
+    if zahl % divisor == 0:
+        quotient = zahl // divisor
+        # print(quotient)
+        if quotient < 10000:
+            anzahl += 1
+            print("Dividend:", quotient)
+
+print("Kombinationen:", anzahl)
