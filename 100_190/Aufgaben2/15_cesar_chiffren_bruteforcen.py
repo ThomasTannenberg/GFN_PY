@@ -21,11 +21,15 @@ def brute_force_chiffre() -> list:
 
         for buchstabe in cesar:
             if buchstabe in alphabet:
-                index = (alphabet.find(buchstabe) + verschiebung) % len(alphabet)
+
+                #https://de.wikipedia.org/wiki/Caesar-Verschl%C3%BCsselung#Algorithmus
+
+                index = (alphabet.find(buchstabe) + verschiebung) % 26
                 zwischen_erg += alphabet[index]
 
                 #print(f"DEBUG_Transformation: buchstabe '{buchstabe}' -> '{alphabet[index]}' (Index: {index})")
                 #Leerzeichen?
+
             else:
                 zwischen_erg += " "
 
