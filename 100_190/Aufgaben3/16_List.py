@@ -8,6 +8,19 @@ Hinweis: Verwende geeignete Funktionen, um die Liste zu aktualisieren und den Du
 """
 
 
-# Hilfestellung für die Aufgabe -> input-Methode (damit kann man in der Console etwas eingeben)
-input = input("gebe eine Gültige Monatszahl ein")
-print("die Benutzereingabe lautet ", input)
+import random
+meineListe = []
+erg = 0
+zähler = 0
+for temp in range(1, 7+1, 1):
+    zufall = random.randint(-20, 50)
+    meineListe.append(zufall)
+    erg += zufall
+for templiste in meineListe:
+    zähler += 1
+    print(f"Temperatur {zähler}: {templiste}")
+eingabe = input("Bitte eine weitere Temperatur eingaben: ")
+meineListe.append(eingabe)
+eingabe = int(eingabe)
+erg += eingabe
+print("Die Durchschnittstemperatur beträgt: ", erg / 8, "° Celsius")

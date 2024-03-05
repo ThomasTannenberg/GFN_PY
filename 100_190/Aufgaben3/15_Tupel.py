@@ -7,17 +7,13 @@ aus, die den Benutzer auffordert, eine gültige Zahl einzugeben.
 Hinweis: Verwende die Eingabeüberprüfung, um sicherzustellen, dass der Benutzer eine gültige Zahl eingibt.
 """
 
-
-
 monate = ("Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember")
 
 def zeige_monat(user_input: int):
-    if 1 <= user_input <= 12:
-        print(f"Der Monat ist: {monate[user_input - 1]}")
-    else:
-       print("Bitte geben Sie eine gültige Zahl zwischen 1 und 12 ein.")
-
-
+        if 1 <= user_input <= 12:
+            print(f"Der Monat ist: {monate[user_input - 1]}")
+        else:
+           print("FEHLER: Bitte geben Sie eine gültige Zahl zwischen 1 und 12 ein.")
 
 
 def user_input() -> int:
