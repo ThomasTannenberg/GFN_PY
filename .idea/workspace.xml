@@ -88,7 +88,7 @@
       <updated>1709623331605</updated>
       <workItem from="1709623335615" duration="524000" />
       <workItem from="1709623868813" duration="5268000" />
-      <workItem from="1709629161717" duration="2420000" />
+      <workItem from="1709629161717" duration="2919000" />
     </task>
     <task id="LOCAL-00001" summary="100_Aufgaben2">
       <option name="closed" value="true" />
@@ -106,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709631033860</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="100_Aufgaben2_cesar_verschiebung">
+      <option name="closed" value="true" />
+      <created>1709631603059</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709631603059</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,12 +136,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/100_190/Aufgaben2/15_cesar_chiffren_bruteforcen.py</url>
-          <line>29</line>
+          <line>31</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/100_190/Aufgaben2/15_cesar_chiffren_bruteforcen.py</url>
-          <line>35</line>
+          <line>37</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -143,7 +151,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/100_190/Aufgaben2/15_cesar_chiffren_bruteforcen.py</url>
-          <line>42</line>
+          <line>44</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
@@ -154,7 +162,7 @@
     <SUITE FILE_PATH="coverage/GFN_PY$3_KleinesEinmaleins.coverage" NAME="3_KleinesEinmaleins Coverage Results" MODIFIED="1709624543784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben" />
     <SUITE FILE_PATH="coverage/GFN_PY$14_KleinsteVonDreiUnterschiedlichenZahlen.coverage" NAME="14_KleinsteVonDreiUnterschiedlichenZahlen Coverage Results" MODIFIED="1709626850418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
     <SUITE FILE_PATH="coverage/GFN_PY$main.coverage" NAME="main Coverage Results" MODIFIED="1709629176068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GFN_PY$15_cesar_chiffren_bruteforcen.coverage" NAME="15_cesar_chiffren_bruteforcen Coverage Results" MODIFIED="1709630730758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
+    <SUITE FILE_PATH="coverage/GFN_PY$15_cesar_chiffren_bruteforcen.coverage" NAME="15_cesar_chiffren_bruteforcen Coverage Results" MODIFIED="1709632044389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
     <SUITE FILE_PATH="coverage/GFN_PY$12_Kostenberechnung.coverage" NAME="12_Kostenberechnung Coverage Results" MODIFIED="1709626313530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
     <SUITE FILE_PATH="coverage/GFN_PY$10_zwei_zahlen_genau_vergleichen.coverage" NAME="10_zwei_zahlen_genau_vergleichen Coverage Results" MODIFIED="1709625503729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
   </component>

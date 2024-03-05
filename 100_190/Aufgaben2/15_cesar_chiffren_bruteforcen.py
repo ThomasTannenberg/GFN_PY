@@ -24,7 +24,9 @@ def brute_force_chiffre() -> list:
 
                 #https://de.wikipedia.org/wiki/Caesar-Verschl%C3%BCsselung#Algorithmus
 
-                index = (alphabet.find(buchstabe) + verschiebung) % 26
+                #index = (verschiebung - alphabet.find(buchstabe)) % 26
+
+                index = (verschiebung + alphabet.find(buchstabe)) % 26
                 zwischen_erg += alphabet[index]
 
                 #print(f"DEBUG_Transformation: buchstabe '{buchstabe}' -> '{alphabet[index]}' (Index: {index})")
@@ -40,10 +42,11 @@ def brute_force_chiffre() -> list:
 
     return erg_liste
 
-#print(brute_force_chiffre())
 
 for loesung in brute_force_chiffre():
     print(loesung)
+
+print(f'\nDie entschlüsselte Nachricht lautet: {brute_force_chiffre()[20]}')
 
 
 
