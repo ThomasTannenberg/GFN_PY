@@ -12,12 +12,7 @@
 
 
 def pruefung_liste(zahlen:list) -> bool:
-    if len(zahlen) == len(set(zahlen)):
-        return False
-    else:
-        return True
-
-
+    return len(zahlen) == len(set(zahlen))
 
 zahlen1 = [1, 3, 7, 9, 7, 11, 17]
 zahlen2 = [1, 3, 7, 9, 11, 17]

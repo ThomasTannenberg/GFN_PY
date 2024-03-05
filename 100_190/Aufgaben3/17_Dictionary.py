@@ -10,16 +10,25 @@ Name eingegeben wird oder der Benutzer entscheidet, das Programm zu beenden.
 """
 
 
-# Hilfestellung für die Aufgabe -> input-Methode (damit kann man in der Console etwas eingeben)
-input = input("gebe eine Gültige Monatszahl ein")
-print("die Benutzereingabe lautet ", input)
-
-
-
 studentenNoten = {"Anna": 1.3, "Bernd": 2.5, "Carla": 1.7, "David": 3.2}
+
 while True:
+
     student = input("Bitte den Namen eines Schülers eingeben:")
+
     if student in studentenNoten.keys():
+
         note = studentenNoten[student]
-        print(note)
-        break
+
+        print(f"Student {student} hat die Note: {note}")
+
+        print("Weitere Studenten suchen?")
+
+        weiter = input("JA(y)/Nein(n)")
+
+        if weiter == "n":
+            break
+
+    else:
+
+        print(f"Student {student} nicht gefunden bitte noch einmal versuchen")
