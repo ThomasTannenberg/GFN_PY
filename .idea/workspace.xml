@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebb7581-4760-46fe-84ca-268444e3a4f6" name="Changes" comment="initial commit">
+    <list default="true" id="7ebb7581-4760-46fe-84ca-268444e3a4f6" name="Changes" comment="100_Aufgaben2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_190/Aufgaben/3_KleinesEinmaleins.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_190/Aufgaben/3_KleinesEinmaleins.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,17 @@
       <updated>1709623331605</updated>
       <workItem from="1709623335615" duration="524000" />
       <workItem from="1709623868813" duration="5268000" />
+      <workItem from="1709629161717" duration="1621000" />
     </task>
+    <task id="LOCAL-00001" summary="100_Aufgaben2">
+      <option name="closed" value="true" />
+      <created>1709629200402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709629200402</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="100_Aufgaben2" />
+    <option name="LAST_COMMIT_MESSAGE" value="100_Aufgaben2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -106,6 +116,26 @@
           <line>8</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/100_190/Aufgaben2/15_cesar_chiffren_bruteforcen.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/100_190/Aufgaben2/15_cesar_chiffren_bruteforcen.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/100_190/Aufgaben2/15_cesar_chiffren_bruteforcen.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/100_190/Aufgaben2/15_cesar_chiffren_bruteforcen.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -113,8 +143,8 @@
     <SUITE FILE_PATH="coverage/GFN_PY$13_Begruessung.coverage" NAME="13_Begruessung Coverage Results" MODIFIED="1709625936887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
     <SUITE FILE_PATH="coverage/GFN_PY$3_KleinesEinmaleins.coverage" NAME="3_KleinesEinmaleins Coverage Results" MODIFIED="1709624543784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben" />
     <SUITE FILE_PATH="coverage/GFN_PY$14_KleinsteVonDreiUnterschiedlichenZahlen.coverage" NAME="14_KleinsteVonDreiUnterschiedlichenZahlen Coverage Results" MODIFIED="1709626850418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
-    <SUITE FILE_PATH="coverage/GFN_PY$main.coverage" NAME="main Coverage Results" MODIFIED="1709624535921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GFN_PY$15_cesar_chiffren_bruteforcen.coverage" NAME="15_cesar_chiffren_bruteforcen Coverage Results" MODIFIED="1709628929841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
+    <SUITE FILE_PATH="coverage/GFN_PY$main.coverage" NAME="main Coverage Results" MODIFIED="1709629176068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GFN_PY$15_cesar_chiffren_bruteforcen.coverage" NAME="15_cesar_chiffren_bruteforcen Coverage Results" MODIFIED="1709630730758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
     <SUITE FILE_PATH="coverage/GFN_PY$12_Kostenberechnung.coverage" NAME="12_Kostenberechnung Coverage Results" MODIFIED="1709626313530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
     <SUITE FILE_PATH="coverage/GFN_PY$10_zwei_zahlen_genau_vergleichen.coverage" NAME="10_zwei_zahlen_genau_vergleichen Coverage Results" MODIFIED="1709625503729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
   </component>
