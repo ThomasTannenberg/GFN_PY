@@ -15,3 +15,20 @@ das das kleine Einmaleins formatiert ausgibt:
 009 018 027 036 045 054 063 072 081 090
 010 020 030 040 050 060 070 080 090 100
 """
+
+
+
+ausg = ""
+
+
+for i in range(1, 11):
+    for j in range(1, 11):
+
+        produkt = i * j
+
+        ausg += f"{produkt:03} "
+
+    ausg += "\n"
+
+
+print(ausg)
