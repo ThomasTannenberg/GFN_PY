@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ebb7581-4760-46fe-84ca-268444e3a4f6" name="Changes" comment="100_Aufgaben2_fertig">
+    <list default="true" id="7ebb7581-4760-46fe-84ca-268444e3a4f6" name="Changes" comment="100_Aufgaben2_cesar_verschiebung">
+      <change afterPath="$PROJECT_DIR$/100_190/Aufgaben3/13_Doppelte.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100_190/Aufgaben3/14_einmaliges_in_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100_190/Aufgaben3/15_Tupel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100_190/Aufgaben3/16_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100_190/Aufgaben3/17_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/100_190/Aufgaben3/18_bubblesort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100_190/Aufgaben3/13_Doppelte.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_190/Aufgaben3/13_Doppelte.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100_190/Aufgaben2/17_Multiplikation.py" beforeDir="false" afterPath="$PROJECT_DIR$/100_190/Aufgaben2/17_Multiplikation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,39 +31,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.10_zwei_zahlen_genau_vergleichen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.12_Kostenberechnung.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13_Begruessung.executor&quot;: &quot;Run&quot;,
-    &quot;Python.13_Doppelte.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_KleinsteVonDreiUnterschiedlichenZahlen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.14_einmaliges_in_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_Tupel.executor&quot;: &quot;Run&quot;,
-    &quot;Python.15_cesar_chiffren_bruteforcen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.16_List.executor&quot;: &quot;Run&quot;,
-    &quot;Python.17_Multiplikation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_KleinesEinmaleins.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/PythonProjekt/GFN_PY/GFN_PY/100_190&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10_zwei_zahlen_genau_vergleichen.executor": "Run",
+    "Python.12_Kostenberechnung.executor": "Run",
+    "Python.13_Begruessung.executor": "Run",
+    "Python.13_Doppelte.executor": "Run",
+    "Python.14_KleinsteVonDreiUnterschiedlichenZahlen.executor": "Run",
+    "Python.14_einmaliges_in_list.executor": "Run",
+    "Python.15_Tupel.executor": "Run",
+    "Python.15_cesar_chiffren_bruteforcen.executor": "Run",
+    "Python.17_Multiplikation.executor": "Run",
+    "Python.3_KleinesEinmaleins.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/PythonProjekt/GFN_PY/GFN_PY/100_190",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\PythonProjekt\GFN_PY\GFN_PY\100_190" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\PythonProjekt\GFN_PY\GFN_PY" />
     </key>
   </component>
   <component name="RunManager">
@@ -102,10 +104,7 @@
       <updated>1709623331605</updated>
       <workItem from="1709623335615" duration="524000" />
       <workItem from="1709623868813" duration="5268000" />
-      <workItem from="1709629161717" duration="6909000" />
-      <workItem from="1709639240865" duration="1745000" />
-      <workItem from="1709641001583" duration="2685000" />
-      <workItem from="1709665740127" duration="427000" />
+      <workItem from="1709629161717" duration="6741000" />
     </task>
     <task id="LOCAL-00001" summary="100_Aufgaben2">
       <option name="closed" value="true" />
@@ -139,39 +138,7 @@
       <option name="project" value="LOCAL" />
       <updated>1709632186881</updated>
     </task>
-    <task id="LOCAL-00005" summary="100_Aufgaben2_fertig">
-      <option name="closed" value="true" />
-      <created>1709635978283</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1709635978283</updated>
-    </task>
-    <task id="LOCAL-00006" summary="100_Aufgaben2_fertig">
-      <option name="closed" value="true" />
-      <created>1709639569856</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1709639569856</updated>
-    </task>
-    <task id="LOCAL-00007" summary="100_Aufgaben2_fertig">
-      <option name="closed" value="true" />
-      <created>1709639581756</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1709639581756</updated>
-    </task>
-    <task id="LOCAL-00008" summary="100_Aufgaben2_fertig">
-      <option name="closed" value="true" />
-      <created>1709639589990</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1709639589990</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,9 +148,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="100_Aufgaben2" />
     <MESSAGE value="100_Aufgaben2_cesar_verschiebung" />
-    <MESSAGE value="100_Aufgaben3_fertig" />
-    <MESSAGE value="100_Aufgaben2_fertig" />
-    <option name="LAST_COMMIT_MESSAGE" value="100_Aufgaben2_fertig" />
+    <option name="LAST_COMMIT_MESSAGE" value="100_Aufgaben2_cesar_verschiebung" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -218,16 +183,15 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/GFN_PY$13_Begruessung.coverage" NAME="13_Begruessung Coverage Results" MODIFIED="1709625936887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
+    <SUITE FILE_PATH="coverage/GFN_PY$3_KleinesEinmaleins.coverage" NAME="3_KleinesEinmaleins Coverage Results" MODIFIED="1709624543784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben" />
     <SUITE FILE_PATH="coverage/GFN_PY$14_KleinsteVonDreiUnterschiedlichenZahlen.coverage" NAME="14_KleinsteVonDreiUnterschiedlichenZahlen Coverage Results" MODIFIED="1709626850418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
-    <SUITE FILE_PATH="coverage/GFN_PY$15_Tupel.coverage" NAME="15_Tupel Coverage Results" MODIFIED="1709639384768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben3" />
+    <SUITE FILE_PATH="coverage/GFN_PY$main.coverage" NAME="main Coverage Results" MODIFIED="1709629176068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GFN_PY$15_cesar_chiffren_bruteforcen.coverage" NAME="15_cesar_chiffren_bruteforcen Coverage Results" MODIFIED="1709632115752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
+    <SUITE FILE_PATH="coverage/GFN_PY$13_Doppelte.coverage" NAME="13_Doppelte Coverage Results" MODIFIED="1709633759887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben3" />
+    <SUITE FILE_PATH="coverage/GFN_PY$15_Tupel.coverage" NAME="15_Tupel Coverage Results" MODIFIED="1709635911239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben3" />
+    <SUITE FILE_PATH="coverage/GFN_PY$12_Kostenberechnung.coverage" NAME="12_Kostenberechnung Coverage Results" MODIFIED="1709626313530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
     <SUITE FILE_PATH="coverage/GFN_PY$14_einmaliges_in_list.coverage" NAME="14_einmaliges_in_list Coverage Results" MODIFIED="1709635419891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben3" />
     <SUITE FILE_PATH="coverage/GFN_PY$17_Multiplikation.coverage" NAME="17_Multiplikation Coverage Results" MODIFIED="1709632498214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
     <SUITE FILE_PATH="coverage/GFN_PY$10_zwei_zahlen_genau_vergleichen.coverage" NAME="10_zwei_zahlen_genau_vergleichen Coverage Results" MODIFIED="1709625503729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
-    <SUITE FILE_PATH="coverage/GFN_PY$16_List.coverage" NAME="16_List Coverage Results" MODIFIED="1709642066186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben3" />
-    <SUITE FILE_PATH="coverage/GFN_PY$3_KleinesEinmaleins.coverage" NAME="3_KleinesEinmaleins Coverage Results" MODIFIED="1709624543784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben" />
-    <SUITE FILE_PATH="coverage/GFN_PY$main.coverage" NAME="main Coverage Results" MODIFIED="1709629176068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/GFN_PY$13_Doppelte.coverage" NAME="13_Doppelte Coverage Results" MODIFIED="1709641114532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben3" />
-    <SUITE FILE_PATH="coverage/GFN_PY$12_Kostenberechnung.coverage" NAME="12_Kostenberechnung Coverage Results" MODIFIED="1709626313530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100_190/Aufgaben2" />
   </component>
 </project>
