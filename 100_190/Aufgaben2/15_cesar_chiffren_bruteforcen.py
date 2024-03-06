@@ -46,7 +46,8 @@ def brute_force_chiffre() -> list:
 for loesung in brute_force_chiffre():
     print(loesung)
 
-print(f'\nDie entschlüsselte Nachricht lautet: {brute_force_chiffre()[20]}')
+print('-'*20)
+print(f'Die entschlüsselte Nachricht lautet: {brute_force_chiffre()[20]}')
 
 
 

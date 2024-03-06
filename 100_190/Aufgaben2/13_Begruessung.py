@@ -13,7 +13,7 @@ Die Stunde per Random zwischen 0 - 23 erstellen.
 
 
 from random import randint
-# from datetime import time
+
 
 def uhrzeit() -> str:
     stunde = randint(0, 23)

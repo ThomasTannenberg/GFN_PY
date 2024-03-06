@@ -23,3 +23,35 @@ roboter_z = Roboter("Stefan")
 roboter_z.name = "Bernd"
 print(roboter_z.name)  # Herbert
 """
+
+
+class Roboter:
+    alle_Roboter = []
+    def __init__(self, name):
+        if name == "Bernd":
+            self.name = "Herbert"
+        else:
+            self.name = name
+        Roboter.alle_Roboter.append(self)
+
+    @classmethod
+    def ausgabe_gesamt(cls):
+        for robo in cls.alle_Roboter:
+            print(robo)
+
+    def __str__(self):
+        return (f'{self.name}')
+
+
+roboter_x = Roboter("Herbert")
+roboter_y = Roboter("Bernd")
+roboter_z = Roboter("Thorsten")
+
+Roboter.ausgabe_gesamt()
+
+
+
+
+
+
+

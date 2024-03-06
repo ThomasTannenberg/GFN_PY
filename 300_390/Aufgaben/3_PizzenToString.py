@@ -25,3 +25,21 @@ Anweisungen:
 2. Implementiere die Methode `__str__`, die eine String-Repräsentation der Pizza zurückgibt, die den Belag und die Größe enthält.
 3. Teste die Methode mit dem bereitgestellten Code.
 """
+
+class Pizza:
+    def __init__(self, belag="Margherita", groesse=28):
+        self.belag = belag
+        self.groesse = groesse
+
+    def __str__(self):
+        return f"Pizza mit Belag {self.belag} und Größe {self.groesse} cm"
+
+
+p1 = Pizza()
+p2 = Pizza("Salami", 32)
+p3 = Pizza("Funghi", 30)
+
+
+print(p1)  # Sollte ausgeben: Pizza mit Belag Margherita und Größe 28cm
+print(p2)  # Sollte ausgeben: Pizza mit Belag Salami und Größe 32cm
+print(p3)  # Sollte ausgeben: Pizza mit Belag Funghi und Größe 30cm
